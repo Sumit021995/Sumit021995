@@ -1,14 +1,7 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/2ae4578660a03c38ee00a4f3ec0fb8b629077f8599240f44e3a99333151acfc2/68747470733a2f2f7777772e73796e657267697374696369742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f50686f656e69782d42616e6e65722d496d6167652e6a7067"/> </p>
+<p align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> </p>
 <h1 align="center">Hi 👋, I'm Sumit Saurav</h1>
 <h3 align="center">A Passionate Web3 enthusiast | AlmaBetter Pro Member</h3>
-<img align = "right" alt = 'coading' width = "400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
--
--
--
--
-
-
-
+<img align = "right" alt = 'coading' width = "400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit021995&label=Profile%20views&color=0e75b6&style=flat" alt="sumit021995" /> </p>
 
 - 🌱 I’m currently learning **React Js , MERN Stack**
@@ -16,18 +9,22 @@
 - 💬 Ask me about **HTML , CSS , JavaScript**
 
 - 📫 How to reach me **sumitsaurav@onmail.com**
+-  Gmail    -  **Sumitofficial021995@gmail.com**
 
--
--
--
+- iN - Linkedin - **https://www.linkedin.com/in/sumit-saurav-3388b5112/**
+  
+
+- Resume - **https://www.canva.com/design/DAF3ryo75pg/UrBaXKwInCqdvDMLm1xyzg/view?utm_content=DAF3ryo75pg&utm_campaign=designshare&utm_medium=link&utm_source=editor**
+  
+
+
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit021995&show_icons=true&locale=en&layout=compact" alt="sumit021995" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit021995&show_icons=true&locale=en" alt="sumit021995" /></p>
--
--
--
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&" alt="sumit021995" /></p>
+
+
