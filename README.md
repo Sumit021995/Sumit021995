@@ -1,4 +1,4 @@
-<img align="center" src="https://www.canva.com/design/DAF3t_HIAJo/1wDDDmu366Jmit92MMxAIg/view?utm_content=DAF3t_HIAJo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+<img align="center" src="https://www.canva.com/design/DAF3t_HIAJo/ilLL2ZAUtPj3HbnDiPPjYg/view?utm_content=DAF3t_HIAJo&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
 <h1 align="center">Hi 👋, I'm Sumit Saurav</h1>
 <h3 align="center">A Passionate Web3 enthusiast | AlmaBetter Pro Member</h3>
 
