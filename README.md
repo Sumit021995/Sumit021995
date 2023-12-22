@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmurali0101%2Fmurali0101&psig=AOvVaw3OA3RL_R3IOnhwlNigrX9B&ust=1703349120614000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEuoS8o4MDFQAAAAAdAAAAABAI" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/2ae4578660a03c38ee00a4f3ec0fb8b629077f8599240f44e3a99333151acfc2/68747470733a2f2f7777772e73796e657267697374696369742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f50686f656e69782d42616e6e65722d496d6167652e6a7067"/> </p>
 <h1 align="center">Hi 👋, I'm Sumit Saurav</h1>
 <h3 align="center">A Passionate Web3 enthusiast | AlmaBetter Pro Member</h3>
 <img align = "right" alt = 'coading' width = "400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
