@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js , MERN Stack**
 
-- 💬 Ask me about **  HTML , CSS , JavaScript**
+- 💬 Ask me about **  HTML , CSS , JavaScript  **
 
 - 📫 How to reach me **sumitsaurav@onmail.com**
 - <p align="left"> <img weight="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"/>  Sumitofficial021995@gmail.com</p>
