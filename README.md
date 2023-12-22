@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.canva.com/design/DAF3uCn6jhc/bk4DT0hIx5FbX31LvM6s1g/view?utm_content=DAF3uCn6jhc&utm_campaign=designshare&utm_medium=link&utm_source=editor" /> </p>
+<p align="center"> <img src="https://rishavchanda.io/" /> </p>
 <h1 align="center">Hi 👋, I'm Sumit Saurav</h1>
 <h3 align="center">A Passionate Web3 enthusiast | AlmaBetter Pro Member</h3>
 <img align = "right" alt = 'coading' width = "400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
@@ -22,7 +22,7 @@
 -
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit021995&show_icons=true&locale=en&layout=compact" alt="sumit021995" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit021995&show_icons=true&locale=en&layout=compact" alt="sumit021995" /></p>
 
 -
 -
