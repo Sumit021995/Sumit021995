@@ -9,7 +9,7 @@
 - 💬 Ask me about **  HTML , CSS , JavaScript  **
 
 - 📫 How to reach me **sumitsaurav@onmail.com**
-- <p align="left"> <img weight="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"/>  Sumitofficial021995@gmail.com</p>
+- <p align="left"> <img weight="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"/>    Sumitofficial021995@gmail.com</p>
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-saurav-3388b5112)
 -  [![Resume](https://cdn-icons-png.flaticon.com/128/5404/5404040.png)](https://www.canva.com/design/DAF3ryo75pg/UrBaXKwInCqdvDMLm1xyzg/view?utm_content=DAF3ryo75pg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
@@ -24,5 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit021995&show_icons=true&locale=en" alt="sumit021995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&" alt="sumit021995" /></p>
+
+### 😂 Random Dev Meme
+<p align="center"><img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
+
+
+[![](https://visitcount.itsvg.in/api?id=imvivekanand&icon=2&color=4)](https://visitcount.itsvg.in)
+
 
 
