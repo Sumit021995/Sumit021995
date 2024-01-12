@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit021995&show_icons=true&locale=en" alt="sumit021995" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&" alt="sumit"/> </p>
+
 
 
 
