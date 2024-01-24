@@ -11,24 +11,14 @@
 - <p align="left"> <img weight="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"/>    Sumitofficial021995@gmail.com</p>
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-saurav-3388b5112)
--  [![Resume](https://cdn-icons-png.flaticon.com/128/5404/5404040.png)](https://www.canva.com/design/DAF3xhamTBc/wAPWZ85U58a_qx7_2ZkWHA/view?utm_content=DAF3xhamTBc&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/><hr/>
+-  [![Resume](https://cdn-icons-png.flaticon.com/128/5404/5404040.png)](https://www.canva.com/design/DAF3xhamTBc/wAPWZ85U58a_qx7_2ZkWHA/view?utm_content=DAF3xhamTBc&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/>
+<hr/>
   
-
-
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&theme=algolia&hide_border=false)<br/><hr/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><p/><br/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"><p/> <br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&theme=algolia&hide_border=false"><p/><br/>
 
-
-
-
-
+<hr/>
 ### 😂 Random Dev Meme
 <p align="center"><img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
-
-
-
-
