@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> </p>
 <h1 align="center">Hi 👋, I'm Sumit Saurav</h1>
-<h3 align="center">A Full Stack Web Developer | A Passionate Web3 enthusiast | AlmaBetter Pro Member</h3>
+<h3 align="center">A Full Stack Web Developer | A Passionate Web3 enthusiast </h3>
 <img align = "right" alt = 'coading' width = "400" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47n94oo29o6yno61scw5nmu0pjptehajmmftb9ob1k&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit021995&label=Profile%20views&color=0e75b6&style=flat" alt="total_visitors" /> </p>
 
