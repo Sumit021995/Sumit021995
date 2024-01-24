@@ -15,9 +15,9 @@
 <hr/>
   
 # 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><p/><br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"><p/> <br/>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&theme=algolia&hide_border=false"><p/><br/>
+![](https://github-readme-stats.vercel.app/api?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumit021995&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <hr/>
 ### 😂 Random Dev Meme
