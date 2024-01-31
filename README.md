@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/> </p>
-<h1 align="center"><span><img height='60px' width='60px' src="https://media.tenor.com/lGBkMdCSr-EAAAAi/bye-smile.gif"> Hi </span>, I'm Sumit Saurav  <span><img src="https://e.deviantart.net/emoticons/h/happybounce.gif"></span></h1>
+<h1 align="center"><span><img height='60px' width='60px' src="https://media.tenor.com/lGBkMdCSr-EAAAAi/bye-smile.gif"> Hi </span>, I'm Sumit Saurav </h1>
 <h3 align="center">A Full Stack Web Developer | A Passionate Web3 enthusiast </h3>
 <img align = "right" alt = 'coading' width = "400" src="https://techsable.com/wp-content/uploads/2018/10/Tehsable.com-minion.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit021995&label=Profile%20views&color=0e75b6&style=flat" alt="total_visitors" /> </p>
