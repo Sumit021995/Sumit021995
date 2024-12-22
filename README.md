@@ -12,8 +12,6 @@
 - <p align="left"><a href="https://sumitsauravportfolio.netlify.app/">Portfolio Link</a></p>
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-saurav-3388b5112)
--  [![Resume](https://cdn-icons-png.flaticon.com/128/5404/5404040.png)](https://www.canva.com/design/DAGCB9Ydp5A/IkcOXGSQz0YcxOyEIXe2Kg/view?utm_content=DAGCB9Ydp5A&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/>
-<hr/>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
