@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **  JAVA , MANUAL SOFTWARE TESTING , SELENIUM WEB DRIVER  **
 
-- <p align="left"> <a href="mailto:sumitofficial021995@gmail.com"><img weight="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"/>Sumitsaurav@onmail.com</a></p>
+- <p align="left"> <a href="mailto:sumitsaurav@onmail.com">Sumitsaurav@onmail.com</a></p>
 - <p align="left"><a href="https://sumitsauravportfolio.netlify.app/">Portfolio Link</a></p>
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-saurav-3388b5112)
