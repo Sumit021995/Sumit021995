@@ -17,7 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit021995&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumit021995&theme=algolia&hide_border=false)<br/>
 
-
-<hr/>
-### 😂 Random Dev Meme
-<p align="center"><img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
